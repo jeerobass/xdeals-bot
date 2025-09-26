@@ -1,0 +1,2 @@
+export const maintext = `<strong><a href="https://t.me/x_deals_bot">XDeals Bot</a></strong>\nПриветствуем вас в ТОП 1 сервисе\n
+<a href="http://project15343896.tilda.ws">Вечная ссылка</a> — актуальная ссылка на бота. При удалении бота перейдите по этой ссылке, вы всегда найдете актуального бота.`;
